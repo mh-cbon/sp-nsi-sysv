@@ -11,7 +11,7 @@ npm i @mh-cbon/sp-nsi-sysv
 # Usage
 
 ```js
-var spNsiSysv = require('./index.js')
+var spNsiSysv = require('@mh-cbon/sp-nsi-sysv')
 var fs = require('fs')
 
 fs.createReadStream('./fixtures/1.sh')
