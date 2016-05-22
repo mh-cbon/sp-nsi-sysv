@@ -1,0 +1,16 @@
+{
+  "name": "sp-nsi-sysv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mh-cbon <mh-cbon@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mississippi": "^1.2.0",
+    "split": "^1.0.0"
+  }
+}
