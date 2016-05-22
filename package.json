@@ -1,6 +1,6 @@
 {
   "name": "@mh-cbon/sp-nsi-sysv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse service file used by nsi to consume sysv",
   "main": "index.js",
   "scripts": {
